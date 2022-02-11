@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devSaagarika
+- 👀 I’m interested in development
+- 🌱 I’m currently learning java and aws
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me in git , fork me.
